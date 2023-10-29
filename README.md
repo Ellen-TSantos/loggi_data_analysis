@@ -34,15 +34,20 @@ import pandas as pd
  <img align="center" alto="line-Loggi" height="350" width="700"  
      src="https://github.com/Ellen-TSantos/extract_cdi/assets/122386488/ea4ea6a1-8eff-43bd-9a12-fba28a153174">
 <hr>
+
 <h3>Items to be analyzed</h3>
 
-  
  <img align="center" alto="line-Loggi" height="350" width="700"  
-     src="https://github.com/Ellen-TSantos/box_model_descodificadas/assets/122386488/ff13fb43-c0a4-4c74-b02a-7fa8ddd0aca7">
+     src="https://github.com/Ellen-TSantos/movies/assets/122386488/0939f506-2eb1-412f-88b8-86ddd4a82d4b">
+
+
      
-<img align="center" alto="line-Loggi" height="200" width="700" 
-src="https://github.com/Ellen-TSantos/box_model_descodificadas/assets/122386488/adb26519-ce19-41d5-8448-71ee248d483e">
-<br></br>
+  <img align="center" alto="line-Loggi" height="180" width="700"  
+     src="https://github.com/Ellen-TSantos/movies/assets/122386488/39d77aaf-39ef-4358-81ec-8d983c2ca66f">
+
+     
+
+
 <hr>
 <h3>TO VIEW GRAPHICS IT WAS NECESSARY TO INSTALL</h3>
 
