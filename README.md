@@ -3,7 +3,7 @@
 <h2>Welcome to my repository.</h2>
 <h2>Project carried out using Python to extract data from the company “Loggi”.<img align="center" alto="Ellen-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></h2>  
 
-<h2>"A business problem focused on Loggi company logistics will be analyzed and explored. The study will involve a subset of the available original data, facing several challenges,
+<h2>"A business problem focused on Loggi company logistics will be analyzed and explored. The analysis will involve a subset of the original data available, facing several challenges,
   including the optimization of delivery routes and the efficient allocation of deliveries to fleet vehicles, considering their limited capacities, among other aspects."</h2>
 
   <h3>It was necessary to give the following command to be able to use wget.⬇️</h3>
