@@ -72,7 +72,8 @@ pip install seaborn
 <hr>
 <br>
 <div align="center">
-   <h2>Bar Chart : Delivery Count by Region </h2>
+   
+<h2>Bar Chart : Delivery Count by Region</h2>
   
 <img width="450" src="https://github.com/Ellen-TSantos/fashion_show_website/assets/122386488/b9587229-47b0-437a-877d-9bb13a317ddf">
   <br>
@@ -82,7 +83,8 @@ pip install seaborn
 
 <hr>
   <br>
-  <h2>Scatter Plot : Location of Hubs and Deliveries</h2>
+  
+<h2>Scatter Plot : Location of Hubs and Deliveries</h2>
   
 <img width="450" src="https://github.com/Ellen-TSantos/fashion_show_website/assets/122386488/e7b5e7af-0528-4c20-bf96-dbb5abb2e689">
 <br>
